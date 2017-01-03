@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleWifiConnections</string>
+    <string name="button_connect">Connect</string>
+</resources>
